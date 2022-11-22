@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetConfLangToolsSample", "DotnetConfLangToolsSample\DotnetConfLangToolsSample.csproj", "{2F634625-F541-4D0A-9D05-8C4BF222638E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetConfLangToolsSample.App", "DotnetConfLangToolsSample.App\DotnetConfLangToolsSample.App.csproj", "{2A60979A-EFB5-4D63-81EC-BC3A3844E672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F634625-F541-4D0A-9D05-8C4BF222638E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F634625-F541-4D0A-9D05-8C4BF222638E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F634625-F541-4D0A-9D05-8C4BF222638E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F634625-F541-4D0A-9D05-8C4BF222638E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A60979A-EFB5-4D63-81EC-BC3A3844E672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A60979A-EFB5-4D63-81EC-BC3A3844E672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A60979A-EFB5-4D63-81EC-BC3A3844E672}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2A60979A-EFB5-4D63-81EC-BC3A3844E672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A60979A-EFB5-4D63-81EC-BC3A3844E672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A60979A-EFB5-4D63-81EC-BC3A3844E672}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688FECA7-005F-4EF5-969B-E14822FFCB30}
+	EndGlobalSection
+EndGlobal
